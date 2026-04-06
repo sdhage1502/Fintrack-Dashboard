@@ -4,7 +4,7 @@
 
 ## 🔐 System Access Credentials
 *(Please test and update these with your actual seeded accounts before submitting)*
-- **Admin Account:** `admin@mail.com` / `admin123`
+- **Admin Account:** `admin@gmail.com` / `admin123`
 - **User Account:** `max@mail.com` / `max123`
 
 
