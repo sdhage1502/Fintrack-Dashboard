@@ -1,12 +1,12 @@
 # FinTrack - Modern Finance Dashboard
 
-**Live Link:** [Add your deployed Vercel/Firebase link here] 🌍
+**Live Link:** [[https://fintrack-dashboard-opal.vercel.app/](https://fintrack-dashboard-opal.vercel.app/)] 🌍
 
 ## 🔐 System Access Credentials
 *(Please test and update these with your actual seeded accounts before submitting)*
-- **Admin Account:** `admin@example.com` / `password123`
-- **User Account:** `user@example.com` / `password123`
-- **Viewer Account:** `viewer@example.com` / `password123`
+- **Admin Account:** `admin@mail.com` / `admin123`
+- **User Account:** `max@mail.com` / `max123`
+
 
 ---
 
