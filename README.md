@@ -3,7 +3,7 @@
 **Live Link:** [[https://fintrack-dashboard-opal.vercel.app/](https://fintrack-dashboard-opal.vercel.app/)] 🌍
 
 ## 🔐 System Access Credentials
-*(Please test and update these with your actual seeded accounts before submitting)*
+
 - **Admin Account:** `admin@gmail.com` / `admin123`
 - **User Account:** `max@gmail.com` / `max123`
 
